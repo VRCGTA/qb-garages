@@ -451,7 +451,7 @@ Config.Garages = {
         label = 'Dumbo Big Rig Parking',
         takeVehicle = vector3(161.23, -3188.73, 5.97),
         spawnPoint = {
-            vector4(167.0, -3203.89, 5.94, 271.27)
+            vector4(179.79, -3196.87, 5.6, 356.28)
         },
         showBlip = true,
         blipName = 'Big Rig Parking',
